@@ -1,10 +1,10 @@
 ## Hi there, I'm Tawanda Muzanenhamo 👋
 
-### I'm a Fullstack Software Engineer, Cloud Computing Enthusiast and Electrical Engineer by qualification :smile:.
+### I'm a Fullstack Software Engineer, Cloud Computing Enthusiast and Electrical Engineer by qualification :smile:
 
 #### I am competent in the following technologies:
 
-[<img align='left' alt='laravel' src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white' />]
+[<img align='left' alt='laravel' src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white' />
 
 <!--
 **tmuzanenhamo/tmuzanenhamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
