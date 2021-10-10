@@ -16,6 +16,7 @@
 <img align='left' alt='node js' src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
 <img align='left' alt='graph-ql' src='https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white' />
 
+
 <br/>
 #### Frontend Languages and Frameworks
 <hr/>
