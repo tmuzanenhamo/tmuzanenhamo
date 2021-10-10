@@ -4,7 +4,7 @@
 
 #### I am competent in the following technologies:
 
-[<img align='left' alt='laravel' src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white' />
+<img align='left' alt='laravel' src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white' />
 
 <!--
 **tmuzanenhamo/tmuzanenhamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
