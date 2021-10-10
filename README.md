@@ -9,7 +9,7 @@
 
 <br/>
 <br/>
-[![Spotify](https://tmuzanenhamo.vercel.app/api/spotify)](https://open.spotify.com/user/tmuzanenhamo)
+[![Spotify](https://tmuzanenhamo.vercel.app/api/spotify)](https://open.spotify.com/user/d1bnxv1zlhm0neqxsq9a3i58d)
 
 
 
