@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-[![Spotify](https://tmuzanenhamo.vercel.app/api/spotify)](https://open.spotify.com/user/d1bnxv1zlhm0neqxsq9a3i58d)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d1bnxv1zlhm0neqxsq9a3i58d&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 
 
