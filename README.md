@@ -33,6 +33,23 @@
 <img align='left' alt='node js' src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
 <img align='left' alt='php' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white' />
 <img align='left' alt='python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
+    
+ <br/>
+
+#### Databases
+<hr/>
+<img align='left' alt='postgres' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
+<img align='left' alt='my-sql' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
+<img align='left' alt='redis' src='https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white'/>
+<img align='left' alt='sql-lite' src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'/>
+<img align='left' alt='elastic-search' src='https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white' />
+    
+    #### Microcontrollers & Internet of Things
+<hr/>
+<img align='left' alt='raspberry-pi' src='https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white' />
+<img align='left' alt='arduino' src='https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white' />
+
+<br/>
   </td>
   <td width="50%">
 
@@ -47,38 +64,15 @@
 <img align='left' alt='redux' src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' />
 <img align='left' alt='react-router' src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white' />
 <img align='left' alt='jquery' src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' />
-
- </td>
-  </table>
-<br/>
-<br/>
-
-#### Databases
-<hr/>
-<img align='left' alt='postgres' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
-<img align='left' alt='my-sql' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
-<img align='left' alt='redis' src='https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white'/>
-<img align='left' alt='sql-lite' src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'/>
-<img align='left' alt='elastic-search' src='https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white' />
-
-<br/>
-<br/>
+    
+    <br/>
 
 #### Cloud Computing
 <hr/>
 <img align='left' alt='aws' src='https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white' />
 <img align='left' alt='gcp' src='https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white'/>
 <img align='left' alt='heroku' src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' />
-
-<br/>
-<br/>
-
-#### Microcontrollers & Internet of Things
-<hr/>
-<img align='left' alt='raspberry-pi' src='https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white' />
-<img align='left' alt='arduino' src='https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white' />
-
-<br/>
+    
 <br/>
 
 #### Other
@@ -91,6 +85,19 @@
 <img align='left' alt='insomnia' src='https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white' />
 <img align='left' alt='github-actions' src='https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white' />
 <img aligh='left' alt='linux' src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' />
+
+ </td>
+  </table>
+<br/>
+
+
+<br/>
+
+
+<br/>
+<br/>
+
+
 
 <br/>
 <br/>
