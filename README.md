@@ -75,6 +75,13 @@
 <img align='left' alt='github-actions' src='https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white' />
 <img aligh='left' alt='linux' src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' />
 
+<br/>
+<br/>
+#### Git Contributions
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmuzanenhamo)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
