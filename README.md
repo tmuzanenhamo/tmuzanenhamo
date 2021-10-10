@@ -2,8 +2,10 @@
 
 ### I'm a Fullstack Software Engineer, Cloud Computing Enthusiast and Electrical Engineer by qualification :smile:
 
-#### I am competent in the following languages and frameworks:
+#### I am competent in the following technologies:
 
+
+#### Backend languages and frameworks:
 <hr/>
 
 <img align='left' alt='laravel' src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white' />
@@ -15,6 +17,9 @@
 <img align='left' alt='node js' src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
 <br/>
 <br/>
+
+#### Frontend langauges and frameworks:
+<hr/>
 <img align='left' alt='graph-ql' src='https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white' />
 <img align='left' alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
 <img align='left' alt='css' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
@@ -23,8 +28,16 @@
 <img align='left' alt='bootstap' src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' />
 <img align='left' alt='php' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white' />
 <img align='left' alt='python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
+<br/>
+<br/>
 
-
+#### Databases
+<hr/>
+<img align='left' alt='postgres' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
+<img align='left' alt='my-sql' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
+<img align='left' alt='redis' src='https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white'/>
+<img align='left' alt='sql-lite' src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'/>
+<img align='left' alt='elastic-search' src='https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white' />
 
 
 
