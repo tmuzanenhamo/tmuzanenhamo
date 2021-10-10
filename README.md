@@ -44,6 +44,30 @@
 <img align='left' alt='sql-lite' src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'/>
 <img align='left' alt='elastic-search' src='https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white' />
 
+<br/>
+<br/>
+
+#### Cloud Computing
+<hr/>
+<img align='left' alt='aws' src='https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white' />
+<img align='left' alt='gcp' src='https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white'/>
+<img align='left' alt='heroku' src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' />
+
+<br/>
+<br/>
+
+#### Other
+<hr/>
+<img  align='left'  alt='vs-code'src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' />
+<img align='left' alt='docker' src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white' />
+<img align='left' alt='git' src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white' />
+<img align='left' alt='py-charm' src='https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white' />
+<img align='left' alt='postman' src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white' />
+<img align='left' alt='insomnia' src='https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white' />
+<img align='left' alt='github-actions' src='https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white' />
+<img aligh='left' alt='linux' src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' />
+
+
 
 
 <!--
