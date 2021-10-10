@@ -20,6 +20,7 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
+    
 #### Backend languages and frameworks:
 <hr/>
 
