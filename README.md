@@ -1,8 +1,8 @@
-### Hi there, I'm Tawanda Muzanenhamo 👋
+## Hi there, I'm Tawanda Muzanenhamo 👋
 
-## I am a Fullstack Software Engineer, Technology Enthusiast and Blogger.
+### I am a Fullstack Software Engineer, Technology Enthusiast and Blogger.
 
-## I am competent in the following technologies:
+#### I am competent in the following technologies:
 
 [<img align='left' alt='laravel' src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white' />]
 
