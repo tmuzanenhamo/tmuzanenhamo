@@ -2,6 +2,11 @@
 
 ### I'm a Fullstack Software Engineer, Cloud Computing Enthusiast and Electrical Engineer by qualification :smile:
 
+<br/>
+<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmuzanenhamo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 #### I am competent in the following technologies:
 
 
@@ -77,11 +82,8 @@
 
 <br/>
 <br/>
-#### Git Contributions
-<br/>
-<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmuzanenhamo)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
