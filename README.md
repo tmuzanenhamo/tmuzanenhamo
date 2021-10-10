@@ -12,6 +12,14 @@
 <img align= 'left' alt='fast-api' src='https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white' />
 <img align='left' alt='flask' src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white'/>
 <img align='left' alt='express' src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white' />
+<img align='left' alt='node js' src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
+
+
+
+
+
+
+
 
 <img align='left' alt='graph-ql' src='https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white' />
 <img align='left' alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
