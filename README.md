@@ -6,8 +6,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d1bnxv1zlhm0neqxsq9a3i58d&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
-<br/>
-
 #### Some Useless Stats
 <hr/>
 <br/>
@@ -17,10 +15,11 @@
 <br/>
 <br/>
 
-
 #### I am competent in the following technologies:
 
-
+<table width="100%"> 
+  <tr>
+  <td width="50%">
 #### Backend languages and frameworks:
 <hr/>
 
@@ -33,8 +32,8 @@
 <img align='left' alt='node js' src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
 <img align='left' alt='php' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white' />
 <img align='left' alt='python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
-<br/>
-<br/>
+  </td>
+  <td width="50%">
 
 #### Frontend langauges and frameworks:
 <hr/>
@@ -48,7 +47,8 @@
 <img align='left' alt='react-router' src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white' />
 <img align='left' alt='jquery' src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' />
 
-
+ </td>
+  </table>
 <br/>
 <br/>
 
