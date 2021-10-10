@@ -12,7 +12,6 @@
 
 [![Spotify](https://tmuzanenhamo.vercel.app/api/spotify)](https://open.spotify.com/user/d1bnxv1zlhm0neqxsq9a3i58d)
 
-<!-- [![Spotify](https://novatorem-teal-psi-10.vercel.app/api/spotify)](https://open.spotify.com/user/d1bnxv1zlhm0neqxsq9a3i58d) -->
 
 
 
