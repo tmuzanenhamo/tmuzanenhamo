@@ -1,5 +1,7 @@
 ### Hi there, I'm Tawanda Muzanenhamo 👋
 
+## I am a Fullstack Software Engineer, Technology Enthusiast and Blogger.
+
 <!--
 **tmuzanenhamo/tmuzanenhamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
