@@ -17,7 +17,8 @@
 <img align='left' alt='graph-ql' src='https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white' />
 
 
-<br/>
+<br />
+
 #### Frontend Languages and Frameworks
 <hr/>
 
