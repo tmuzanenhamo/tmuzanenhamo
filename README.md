@@ -56,6 +56,11 @@
 <br/>
 <br/>
 
+#### Microcontrollers & Internet of Things
+<hr/>
+<img align='left' alt='raspberry-pi' src='https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white' />
+<ing align='left' alt='arduino' src='https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white' />
+
 #### Other
 <hr/>
 <img  align='left'  alt='vs-code'src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' />
