@@ -1,6 +1,6 @@
 ## Hi there, I'm Tawanda Muzanenhamo 👋
 
-### I'm a Fullstack Software Engineer, Cloud Computing Enthusiast and Electrical Engineer by qualification :smile:
+### I'm a Fullstack Software Engineer, Cloud Computing Enthusiast and Electrical <br/> Engineer by qualification :smile:
 
 #### I am competent in the following languages and frameworks:
 
