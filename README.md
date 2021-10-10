@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmuzanenhamo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmuzanenhamo$theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### I am competent in the following technologies:
