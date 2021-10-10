@@ -1,6 +1,6 @@
 ## Hi there, I'm Tawanda Muzanenhamo 👋
 
-### I'm a Fullstack Software Engineer, Cloud Computing Enthusiast and Electrical <br/> Engineer by qualification :smile:
+### I'm a Fullstack Software Engineer, Cloud Computing Enthusiast and Electrical Engineer by qualification :smile:
 
 #### I am competent in the following languages and frameworks:
 
@@ -13,14 +13,7 @@
 <img align='left' alt='flask' src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white'/>
 <img align='left' alt='express' src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white' />
 <img align='left' alt='node js' src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
-
-
-
-
-
-
-
-
+<br/>
 <img align='left' alt='graph-ql' src='https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white' />
 <img align='left' alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
 <img align='left' alt='css' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
