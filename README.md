@@ -7,9 +7,10 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d1bnxv1zlhm0neqxsq9a3i58d&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 <br/>
-<br/>
 
 #### Some Useless Stats
+<hr/>
+<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmuzanenhamo&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
