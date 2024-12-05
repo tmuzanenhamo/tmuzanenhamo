@@ -6,7 +6,7 @@
 ---
 
 ### 🎧 Currently Listening To
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=d1bnxv1zlhm0neqxsq9a3i58d&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/d1bnxv1zlhm0neqxsq9a3i58d)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=d1bnxv1zlhm0neqxsq9a3i58d&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=d1bnxv1zlhm0neqxsq9a3i58d&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)]]
 
 ---
 
